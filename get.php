@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Template</title>
+    <title>Demo of $_GET</title>
 
-    <meta name="description" content="Template HTML file">
+    <meta name="description" content="A demonstration of PHP's $_GET">
     <meta name="author" content="iO Academy">
 
     <link rel="stylesheet" href="css/normalize.css">
@@ -21,7 +21,9 @@
 
 <body>
 
-<h1>Website Template</h1>
+<h1>$_GET</h1>
+
+<a href="test_get.php?subject=PHP&where=iO Academy">Test $_GET</a>
 
 </body>
 </html>

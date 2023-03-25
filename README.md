@@ -1,1 +1,1 @@
-# website-template
+Demo of $_GET and $_POST.
